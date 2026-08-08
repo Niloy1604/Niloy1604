@@ -42,14 +42,9 @@ I'm passionate about building **AI-powered applications that solve real-world pr
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Niloy1604&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niloy1604&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Niloy1604&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niloy1604&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niloy1604&theme=tokyonight&hide_border=true" />
-</p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niloy1604&theme=tokyonight&hide_border=true" /> </p>
 
 ---
 
@@ -68,9 +63,9 @@ I'm passionate about building **AI-powered applications that solve real-world pr
 
 # 🔝 Top Contributed Repository
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Niloy1604&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
+<p align="center"> <a href="https://github.com/Niloy1604?tab=repositories"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niloy1604&repo=OCR_SPACE&theme=tokyonight&hide_border=true" /> </a> </p>
+
+<p align="center"> <a href="https://github.com/Niloy1604?tab=repositories"> <b>View all repositories →</b> </a> </p>
 
 ---
 
